@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TANVIR/welcome 2k18/3.1/CSE 3119 Software Engineering and Information/CSE 3120/Final Project/CardiacRecorder_007_009/app/src/main/res/drawable/btn_background.xml" value="0.17" />
+        <entry key="..\:/TANVIR/welcome 2k18/3.1/CSE 3119 Software Engineering and Information/CSE 3120/Final Project/CardiacRecorder_007_009/app/src/main/res/drawable/ic_add_black_24dp.xml" value="0.17" />
+        <entry key="..\:/TANVIR/welcome 2k18/3.1/CSE 3119 Software Engineering and Information/CSE 3120/Final Project/CardiacRecorder_007_009/app/src/main/res/layout/activity_data.xml" value="0.20416666666666666" />
+        <entry key="..\:/TANVIR/welcome 2k18/3.1/CSE 3119 Software Engineering and Information/CSE 3120/Final Project/CardiacRecorder_007_009/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/TANVIR/welcome 2k18/3.1/CSE 3119 Software Engineering and Information/CSE 3120/Final Project/CardiacRecorder_007_009/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/TANVIR/welcome 2k18/3.1/CSE 3119 Software Engineering and Information/CSE 3120/Final Project/CardiacRecorder_007_009/app/src/main/res/layout/fragment_create_task.xml" value="0.20416666666666666" />
+        <entry key="..\:/TANVIR/welcome 2k18/3.1/CSE 3119 Software Engineering and Information/CSE 3120/Final Project/CardiacRecorder_007_009/app/src/main/res/layout/item_task.xml" value="0.20416666666666666" />
+        <entry key="..\:/TANVIR/welcome 2k18/3.1/CSE 3119 Software Engineering and Information/CSE 3120/Final Project/CardiacRecorder_007_009/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/TANVIR/welcome 2k18/3.1/CSE 3119 Software Engineering and Information/CSE 3120/Project/app/src/main/res/drawable/btnred.xml" value="0.1405" />
+        <entry key="..\:/TANVIR/welcome 2k18/3.1/CSE 3119 Software Engineering and Information/CSE 3120/Project/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.1" />
+        <entry key="..\:/TANVIR/welcome 2k18/3.1/CSE 3119 Software Engineering and Information/CSE 3120/Project/app/src/main/res/layout/activity_data.xml" value="0.20416666666666666" />
+        <entry key="..\:/TANVIR/welcome 2k18/3.1/CSE 3119 Software Engineering and Information/CSE 3120/Project/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/TANVIR/welcome 2k18/3.1/CSE 3119 Software Engineering and Information/CSE 3120/Project/app/src/main/res/layout/activity_start_page.xml" value="0.20416666666666666" />
+        <entry key="..\:/TANVIR/welcome 2k18/3.1/CSE 3119 Software Engineering and Information/CSE 3120/Project/app/src/main/res/menu/add.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CardiacRecorder_007_009/app/src/main/res/drawable-v24/ic_logo.xml" value="0.178" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CardiacRecorder_007_009/app/src/main/res/drawable/btn_background.xml" value="0.124" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CardiacRecorder_007_009/app/src/main/res/drawable/btn_border.xml" value="0.124" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CardiacRecorder_007_009/app/src/main/res/drawable/ic_add_black_24dp.xml" value="0.124" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CardiacRecorder_007_009/app/src/main/res/drawable/ic_addbutton.xml" value="0.124" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CardiacRecorder_007_009/app/src/main/res/drawable/ic_appmoree.xml" value="0.124" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CardiacRecorder_007_009/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CardiacRecorder_007_009/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CardiacRecorder_007_009/app/src/main/res/layout/fragment_create_task.xml" value="0.23846153846153847" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CardiacRecorder_007_009/app/src/main/res/layout/item_task.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CardiacRecorder_007_009/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.237" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CardiacRecorder_013_015/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.237" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CardiacRecorder_013_015/app/src/main/res/drawable-v24/ic_logo.xml" value="0.158" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CardiacRecorder_013_015/app/src/main/res/drawable/btn_background.xml" value="0.237" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CardiacRecorder_013_015/app/src/main/res/drawable/btn_border.xml" value="0.237" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CardiacRecorder_013_015/app/src/main/res/drawable/ic_addbutton.xml" value="0.237" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CardiacRecorder_013_015/app/src/main/res/drawable/ic_appmoree.xml" value="0.237" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CardiacRecorder_013_015/app/src/main/res/drawable/ic_launcher_background.xml" value="0.237" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CardiacRecorder_013_015/app/src/main/res/layout/activity_main.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CardiacRecorder_013_015/app/src/main/res/layout/activity_splash_screen.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CardiacRecorder_013_015/app/src/main/res/layout/fragment_create_task.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CardiacRecorder_013_015/app/src/main/res/layout/item_task.xml" value="0.18854166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$" />
+    <option name="OPTION_SCOPE" value="public" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
