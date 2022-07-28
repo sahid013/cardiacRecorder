@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CardiacRecorder_013_015</string>
+    <string name="delete_confirmation">Confirmation</string>
+    <string name="sureToDelete">Are you sure you want to delete the task</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="a1">Cardiac Recorder</string>
+    <string name="a2">Check your regular pulse and heart hate</string>
+    <string name="confirmation">Completed the task!..</string>
+</resources>
