@@ -61,28 +61,5 @@ public class UITest {
         onView(withId(R.id.addRecord)).perform(click());
     }
 
-//    @Test
-//    public void update() {
-//        onView(withId(R.id.updateOrDeleteOption)).perform(click());
-//        onView(withText("Update")).perform(click());
-//        onView(withId(R.id.recordingDate)).perform(click());
-//        onView(withText("CANCEL")).perform(click());
-//        onView(withId(R.id.recordingTime)).perform(click());
-//        onView(withText("CANCEL")).perform(click());
-//        onView(withId(R.id.sysPressure)).perform(ViewActions.clearText(),ViewActions.typeText("120"),pressImeActionButton());
-//        onView(withId(R.id.recordingDate)).perform(ViewActions.swipeUp());
-//        onView(withId(R.id.diaPressure)).perform(ViewActions.clearText(),ViewActions.typeText("30"),pressImeActionButton());
-//        onView(withId(R.id.heartRate)).perform(ViewActions.clearText(),ViewActions.typeText("150"),pressImeActionButton());
-//        onView(withId(R.id.overAllComment)).perform(ViewActions.clearText(),ViewActions.typeText("Alarming"));
-//        onView(withId(R.id.overAllComment)).perform(pressImeActionButton());
-//        onView(withId(R.id.addRecord)).perform(click());
-//
-//    }
 
-//    @Test
-//    public void delete() {
-//        onView(withId(R.id.updateOrDeleteOption)).perform(click());
-//        onView(withText("Delete")).perform(click());
-//        onView(withText("YES")).perform(click());
-//    }
 }
