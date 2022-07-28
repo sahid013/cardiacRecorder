@@ -41,17 +41,17 @@ public class UnitTest {
     public void testAdd() throws Exception{
         Task createTask = new Task();
         createTask.setTaskId(1);
-        createTask.setDate("14-7-2022");
-        createTask.setTime("22.22");
-        createTask.setSystolic_pressure("70");
+        createTask.setDate("20-4-2021");
+        createTask.setTime("22.20");
+        createTask.setSystolic_pressure("120");
         createTask.setDiastolic_pressure("80");
         createTask.setHeart_rate("65");
         createTask.setComment("good");
 
         dao.insertDataIntoTaskList(createTask);
-        Task record1 = dao.selectDataFromAnId(1);
+        Task record = dao.selectDataFromAnId(1);
 
-        assertEquals("70", record1.getSystolic_pressure());
+        assertEquals("120", record.getSystolic_pressure());
 
     }
 
@@ -67,9 +67,9 @@ public class UnitTest {
         createTask.setComment("good");
 
         dao.insertDataIntoTaskList(createTask);
-        Task record1 = dao.selectDataFromAnId(1);
+        Task record = dao.selectDataFromAnId(1);
 
-        assertEquals("70", record1.getSystolic_pressure());
+        assertEquals("70", record.getSystolic_pressure());
 
         dao.updateAnExistingRow(1,"14-7-2022","22.22","75","80","65","good");
         record1 = dao.selectDataFromAnId(1);
